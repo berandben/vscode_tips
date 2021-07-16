@@ -50,3 +50,6 @@ code --list-extensions --show-versions
 
 
 cat extensions.list |% { code --install-extension $_}  
+
+https://marketplace.visualstudio.com/items?itemName=aslamanver.vsc-export  
+
