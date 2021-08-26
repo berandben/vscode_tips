@@ -36,7 +36,7 @@ rifi2k.format-html-in-php
 ritwickdey.LiveServer  
 steoates.autoimport  
 VisualStudioExptTeam.vscodeintellicode  
-vscode-icons-team.vscode-icons   
+vscode-icons-team.vscode-icons
 
 
 ----------------------------------------  
@@ -52,4 +52,12 @@ code --list-extensions --show-versions
 cat extensions.list |% { code --install-extension $_}  
 
 https://marketplace.visualstudio.com/items?itemName=aslamanver.vsc-export  
+
+---------------------------------------  
+
+Importar clases PHP  
+
+ PHP Namespace Resolver  
+ 
+ 
 
