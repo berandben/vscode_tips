@@ -57,7 +57,18 @@ https://marketplace.visualstudio.com/items?itemName=aslamanver.vsc-export
 
 Importar clases PHP  
 
- PHP Namespace Resolver  
+PHP Namespace Resolver  
+https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver  
+
+---------------------------------------  
+
+Cliente API Rest  
+
+https://www.thunderclient.io/  
+
+---------------------------------------  
+
+
  
  
 
