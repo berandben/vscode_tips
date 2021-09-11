@@ -66,7 +66,13 @@ Cliente API Rest
 
 https://www.thunderclient.io/  
 
----------------------------------------  
+---------------------------------------   
+
+Sincroniza servidor ftp con carpeta local  
+
+https://marketplace.visualstudio.com/items?itemName=liximomo.sftp  
+
+
 
 
  
