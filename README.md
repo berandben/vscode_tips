@@ -72,6 +72,14 @@ Sincroniza servidor ftp con carpeta local
 
 https://marketplace.visualstudio.com/items?itemName=liximomo.sftp  
 
+---------------------------------------   
+
+Inserta comentarios PHPDoc  
+
+
+https://marketplace.visualstudio.com/items?itemName=ronvanderheijden.phpdoc-generator  
+
+
 
 
 
