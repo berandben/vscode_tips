@@ -79,6 +79,13 @@ Inserta comentarios PHPDoc
 
 https://marketplace.visualstudio.com/items?itemName=ronvanderheijden.phpdoc-generator  
 
+Bracket Pair Colorized native  
+
+"editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active"  
+    
+    
+
 
 
 
